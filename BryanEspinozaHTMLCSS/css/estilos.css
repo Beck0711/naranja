@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Darkcastle";
+    src: url(../fuentes/Darkcastle.otf);
+}
+#tabla1{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-size-adjust: 20px;
+}
+td{
+    padding-left: 30px;
+    padding-top: 75;
+    text-align: justify;
+    margin-left: 20px
+}
+
+#londres{
+    font-family: "Darkcastle";
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 3px 3px 3px color aliceblue;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#img{
+    height: 650px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+#lond{
+    font-size: 30px;
+    height: 100px;
+    font-weight: bold;
+    width: 40%;
+    margin-top: 40px;
+    font-style: oblique;
+    font-style: italic;
+    color: darkmagenta;
+}
+#lond2{
+    color: black;
+    size: 20px;
+    text-align: justify;
+}
+#Nod{
+    margin-top: 40px;
+    font-size: 40px;
+    text-align: center;
+    color: darkmagenta;
+    font-weight: bold;
+    border-bottom: solid;
+}
+.fotos{
+    margin-top: 40px;
+    margin-right: 40px;
+    width: 80%;
+    align-items: center;
+    border-radius: 160px;
+    border: 2px solid;
+    color: darkmagenta;
+    margin-left: 40px;
+    padding: 20px;
+}
+img{
+    width: 80%;
+}
+#celd{
+    text-align: justify
+}
